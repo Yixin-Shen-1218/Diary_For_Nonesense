@@ -1,5 +1,5 @@
 # Diary_For_Nonsense
-Record daily work completion, academic life and daydreams to increase a sense of accomplishment
+Record daily work completion, academic life and daydreams to increase a sense of accomplishment.
 
 
 
